@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blanchisserie-tourneur.fr/sitemap.xml
